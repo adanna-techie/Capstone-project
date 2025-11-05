@@ -1,0 +1,27 @@
+Scenerio 1: The Phish
+You are a security analyst in a AICIC concepts, an employee has forwarded you an email she received from her bank. 
+With your knowledge of email header analysis, answer the following questions.
+
+Sample.eml
+
+Q1 Based on the contents of the email header, what is the full date and time of the email delivery?
+
+***, ** *** **** **:**:** -****
+
+Q2 What is the subject of the email?
+
+Q3 Who was the email sent to?
+
+Q4 Based on the sender's display name, who does the email claim to be from?
+
+Q5 What is the sender's email address?
+
+Q6 What email address is used for receiving bounced emails?
+
+Q7 What is the IP address of the sender's email server?
+
+**.***.**.**
+
+Q8 What is the resolved hostname of the sender's IP address?
+
+Q9 Is this a phishing email?

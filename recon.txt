@@ -1,0 +1,21 @@
+Challenge file Beco-OSINT-1741020774699.png 
+
+Q1. Perform a reverse image search on Beco-OSINT-1741020774699.png image file. What is the location of the place in the email.
+Answer format: City, Country.
+
+Q2. Check the exif data of the WindowsXP_1551719014755.jpg image file. Who is the owner of the file?
+
+
+NMAP
+
+Target ip scanme.nmap.org/ 45.33.32.156
+
+Q3 how many hosts are up in the network?
+
+Q4 How many services are listening on the host?
+
+Q5 What version of ssh is running on the target host?
+
+Q6 List the ports that are open and the services running on them
+
+Q7 What Operating system is the host running on?

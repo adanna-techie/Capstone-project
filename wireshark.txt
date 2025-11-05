@@ -1,0 +1,30 @@
+Section 1
+
+Instructions:
+The SOC at AICIC Concepts  received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
+
+Using your Wireshark skills, perform network traffic analysis on the wireshark_challenge.pcap packet capture to produce findings for the report questions below.
+
+Challenge File: wireshark_challenge.pcap
+
+
+Q1 How many total packets are in the wireshark_challenge.pcap packet capture?
+
+Q2 What was the first domain name queried and resolved in the capture?
+
+Q3 What is the associated IP address of the domain name?
+
+Q4 How many HTTP packets are contained in the capture file?
+
+
+Section 2
+
+Challenge file:  ftp-1637928304727.pcap
+
+Q1 How many total packets are in the ftp-1637928304727.pcap packet capture?
+
+Q2 How many FTP packets are contained the capture file?
+
+Q3 What is the username used to connect to the ftp server?
+
+Q4 What is the password?
