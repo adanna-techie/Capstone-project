@@ -22,6 +22,4 @@ Q7 What is the IP address of the sender's email server?
 
 **.***.**.**
 
-Q8 What is the resolved hostname of the sender's IP address?
-
-Q9 Is this a phishing email?
+Q8 Is this a phishing email?
