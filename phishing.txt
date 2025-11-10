@@ -1,5 +1,5 @@
 Scenerio 1: The Phish
-You are a security analyst in a AICIC concepts, an employee has forwarded you an email she received from her bank. 
+You are a security analyst in at Technova LTD, an employee has forwarded you an email she received from her bank. 
 With your knowledge of email header analysis, answer the following questions.
 
 Sample.eml
