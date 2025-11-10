@@ -1,7 +1,7 @@
 Section 1
 
 Instructions:
-The SOC at AICIC Concepts  received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
+The SOC at Technova LTD received an alert of abnormal traffic patterns and a high number of repeated queries originating from one of their external-facing endpoints (172.16.1.16).
 
 Using your Wireshark skills, perform network traffic analysis on the wireshark_challenge.pcap packet capture to produce findings for the report questions below.
 
