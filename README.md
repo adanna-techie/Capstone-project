@@ -22,7 +22,13 @@ You can download Thunderbird from the official website:
 
 After downloading, run the following commands to move and configure Thunderbird:
 
+unzip the file using:
+
+tar -xf thunderbird-144.0.1.tar.xz
+
 sudo mv thunderbird /opt/thunderbird
+
 cd /opt/thunderbird
+
 sudo ln -s /opt/thunderbird/thunderbird /usr/local/bin/thunderbird
 
